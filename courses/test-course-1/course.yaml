@@ -3,9 +3,9 @@ id: 'clvvu7rmv0000w0v86mt32p1g'
 title: 'Название курса'
 description: |
   ## Описание курса в формате Markdown:
-  - Пункт 1-1
-  - Пункт 2-1
-  - Пункт 3-1
+  - Пункт 1-
+  - Пункт 2-
+  - Пункт 3-
   - Пункт [4](https://google.com)
 lessons:
   - 'lesson-1'
