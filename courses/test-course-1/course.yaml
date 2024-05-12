@@ -1,14 +1,14 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/Art-San/content-schema-1/main/schemas/course.schema.json
 id: 'clvvu7rmv0000w0v86mt32p1g'
-title: 'Название курса'
+title: 'Name course'
 description: |
-  ## Описание курса в формате Markdown:
-  - Пункт 1-2
-  - Пункт 2-2
-  - Пункт 3-
-  - Пункт [4](https://google.com)
+  ## Description course':
+  - Point 1-2
+  - Point 2-2
+  - Point 3-
+  - Point [4](https://google.com)
 lessons:
   - 'lesson-1'
-thumbnail: 'ffff'
-image: 'fff'
+thumbnail: 'phot'
+image: 'coll'
 product: { access: 'free' }
